@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnkushKothiyal
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning SQL and Deep learning.
 - 💞️ I’m looking to collaborate on Transformer related projects.
 - 📫 How to reach me ankukothiyal@gmail.com
