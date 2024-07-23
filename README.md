@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @AnkushKothiyal
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning SQL and Deep learning.
-- 💞️ I’m looking to collaborate on Transformer related projects.
-- 📫 How to reach me ankukothiyal@gmail.com
+# Introducing Myself
+Hello, I am Ankush kothiyal. Senior Analyst with expertise in Data Analysis and modelling, solution designing, Client reporting and Presenting insights. 
 
+## Skills
+- **Programming Languages**: Python, SAS and SQL
+- **Technologies**: Machine Learning, Deep Learning, Natural Language Processing, LLM, Transformers etc.
+- **Framework and Libraries**: Scikit-Learn, Pytorch, SHAP, xGBoost, MLP, RNN etc.
+- **Tools and Platforms**: Tableau, Excel, GCP and Snowflake
+
+## 📚 Projects
+ - NameGen: A Bigram-Based Name Generator
+ - CharEmbed-NameGen: Character-Level Embeddings for Name Generation
+
+## Connect
+- ankukothiyal@gmail.com
+- Linkdin: https://www.linkedin.com/in/ankushkothiyal/
 <!---
 AnkushKothiyal/AnkushKothiyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
