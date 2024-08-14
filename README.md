@@ -1,5 +1,5 @@
 # Introduction
-Hello, I am Ankush kothiyal. Senior Analyst with expertise in Data Analysis and modelling, solution designing, Client reporting and Presenting insights. 
+Hello, I am Ankush kothiyal. Senior Analyst with expertise in Data Analysis, modelling, solution designing, Client reporting and Presenting insights. 
 
 ## Skills
 - **Programming Languages**: Python, SAS and SQL
