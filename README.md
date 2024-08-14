@@ -1,4 +1,4 @@
-# Introducing Myself
+# Introduction
 Hello, I am Ankush kothiyal. Senior Analyst with expertise in Data Analysis and modelling, solution designing, Client reporting and Presenting insights. 
 
 ## Skills
