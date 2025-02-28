@@ -1,5 +1,5 @@
 # Introduction
-Hello, I am Ankush kothiyal. Senior Analyst with expertise in Data Analysis, modelling, solution designing, Client reporting and Presenting insights. 
+Hello, I am Ankush kothiyal. Data Scietist with expertise in Data Analysis, modelling, solution designing, Client reporting and Presenting insights. 
 
 ## Skills
 - **Programming Languages**: Python, SAS and SQL
@@ -10,6 +10,7 @@ Hello, I am Ankush kothiyal. Senior Analyst with expertise in Data Analysis, mod
 ## 📚 Projects
  - NameGen: A Bigram-Based Name Generator
  - CharEmbed-NameGen: Character-Level Embeddings for Name Generation
+ - raostmaster: An AI powered program to roast you.
 
 ## Connect
 - ankukothiyal@gmail.com
